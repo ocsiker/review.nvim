@@ -1,0 +1,12 @@
+
+# Neovim / runtime
+*.swp
+*.swo
+*.swn
+*.tmp
+
+# Local database
+reviews.json
+
+# macOS
+.DS_Store
